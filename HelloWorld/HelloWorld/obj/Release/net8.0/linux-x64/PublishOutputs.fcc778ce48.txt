@@ -1,0 +1,7 @@
+C:\Coding\DigitalOceanDotnetTest\HelloWorld\HelloWorld\bin\Release\net8.0\linux-x64\publish\HelloWorld
+C:\Coding\DigitalOceanDotnetTest\HelloWorld\HelloWorld\bin\Release\net8.0\linux-x64\publish\appsettings.Development.json
+C:\Coding\DigitalOceanDotnetTest\HelloWorld\HelloWorld\bin\Release\net8.0\linux-x64\publish\appsettings.json
+C:\Coding\DigitalOceanDotnetTest\HelloWorld\HelloWorld\bin\Release\net8.0\linux-x64\publish\HelloWorld.dll
+C:\Coding\DigitalOceanDotnetTest\HelloWorld\HelloWorld\bin\Release\net8.0\linux-x64\publish\HelloWorld.deps.json
+C:\Coding\DigitalOceanDotnetTest\HelloWorld\HelloWorld\bin\Release\net8.0\linux-x64\publish\HelloWorld.runtimeconfig.json
+C:\Coding\DigitalOceanDotnetTest\HelloWorld\HelloWorld\bin\Release\net8.0\linux-x64\publish\HelloWorld.pdb

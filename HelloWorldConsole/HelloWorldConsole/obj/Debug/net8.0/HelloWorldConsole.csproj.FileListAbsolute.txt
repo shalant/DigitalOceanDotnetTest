@@ -1,0 +1,14 @@
+C:\Coding\DigitalOceanDotnetTest\HelloWorldConsole\HelloWorldConsole\bin\Debug\net8.0\HelloWorldConsole.exe
+C:\Coding\DigitalOceanDotnetTest\HelloWorldConsole\HelloWorldConsole\bin\Debug\net8.0\HelloWorldConsole.deps.json
+C:\Coding\DigitalOceanDotnetTest\HelloWorldConsole\HelloWorldConsole\bin\Debug\net8.0\HelloWorldConsole.runtimeconfig.json
+C:\Coding\DigitalOceanDotnetTest\HelloWorldConsole\HelloWorldConsole\bin\Debug\net8.0\HelloWorldConsole.dll
+C:\Coding\DigitalOceanDotnetTest\HelloWorldConsole\HelloWorldConsole\bin\Debug\net8.0\HelloWorldConsole.pdb
+C:\Coding\DigitalOceanDotnetTest\HelloWorldConsole\HelloWorldConsole\obj\Debug\net8.0\HelloWorldConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\DigitalOceanDotnetTest\HelloWorldConsole\HelloWorldConsole\obj\Debug\net8.0\HelloWorldConsole.AssemblyInfoInputs.cache
+C:\Coding\DigitalOceanDotnetTest\HelloWorldConsole\HelloWorldConsole\obj\Debug\net8.0\HelloWorldConsole.AssemblyInfo.cs
+C:\Coding\DigitalOceanDotnetTest\HelloWorldConsole\HelloWorldConsole\obj\Debug\net8.0\HelloWorldConsole.csproj.CoreCompileInputs.cache
+C:\Coding\DigitalOceanDotnetTest\HelloWorldConsole\HelloWorldConsole\obj\Debug\net8.0\HelloWorldConsole.dll
+C:\Coding\DigitalOceanDotnetTest\HelloWorldConsole\HelloWorldConsole\obj\Debug\net8.0\refint\HelloWorldConsole.dll
+C:\Coding\DigitalOceanDotnetTest\HelloWorldConsole\HelloWorldConsole\obj\Debug\net8.0\HelloWorldConsole.pdb
+C:\Coding\DigitalOceanDotnetTest\HelloWorldConsole\HelloWorldConsole\obj\Debug\net8.0\HelloWorldConsole.genruntimeconfig.cache
+C:\Coding\DigitalOceanDotnetTest\HelloWorldConsole\HelloWorldConsole\obj\Debug\net8.0\ref\HelloWorldConsole.dll

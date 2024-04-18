@@ -1,0 +1,7 @@
+C:\Coding\DigitalOceanDotnetTest\TestApp\TestApp\obj\Release\net8.0\linux-x64\PubTmp\Out\TestApp
+C:\Coding\DigitalOceanDotnetTest\TestApp\TestApp\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.Development.json
+C:\Coding\DigitalOceanDotnetTest\TestApp\TestApp\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.json
+C:\Coding\DigitalOceanDotnetTest\TestApp\TestApp\obj\Release\net8.0\linux-x64\PubTmp\Out\TestApp.dll
+C:\Coding\DigitalOceanDotnetTest\TestApp\TestApp\obj\Release\net8.0\linux-x64\PubTmp\Out\TestApp.deps.json
+C:\Coding\DigitalOceanDotnetTest\TestApp\TestApp\obj\Release\net8.0\linux-x64\PubTmp\Out\TestApp.runtimeconfig.json
+C:\Coding\DigitalOceanDotnetTest\TestApp\TestApp\obj\Release\net8.0\linux-x64\PubTmp\Out\TestApp.pdb

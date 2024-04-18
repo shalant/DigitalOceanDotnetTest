@@ -1,7 +1,0 @@
-C:\Coding\DigitalOceanDotnetTest\TestApp\TestApp\obj\Release\net8.0\PubTmp\Out\TestApp.exe
-C:\Coding\DigitalOceanDotnetTest\TestApp\TestApp\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
-C:\Coding\DigitalOceanDotnetTest\TestApp\TestApp\obj\Release\net8.0\PubTmp\Out\appsettings.json
-C:\Coding\DigitalOceanDotnetTest\TestApp\TestApp\obj\Release\net8.0\PubTmp\Out\TestApp.dll
-C:\Coding\DigitalOceanDotnetTest\TestApp\TestApp\obj\Release\net8.0\PubTmp\Out\TestApp.deps.json
-C:\Coding\DigitalOceanDotnetTest\TestApp\TestApp\obj\Release\net8.0\PubTmp\Out\TestApp.runtimeconfig.json
-C:\Coding\DigitalOceanDotnetTest\TestApp\TestApp\obj\Release\net8.0\PubTmp\Out\TestApp.pdb
